@@ -15,9 +15,6 @@
 ```
 > whoami
 Aadin — student, currently learning by building things that break and then don't.
-
-> status
-Building JARVIS in three different languages because once wasn't enough.
 ```
 
 </div>

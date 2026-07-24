@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aadin+%F0%9F%91%8B; Exploring+%7C+Building+%7C+Shipping;" alt="Typing SVG" />
+<img src="./assets/hands_pixel_art.png" width="500" alt="pixel art" />
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aadin+%F0%9F%91%8B;Exploring+%7C+Building+%7C+Shipping" alt="Typing SVG" />
 
 </div>
 
@@ -115,7 +121,6 @@ My personal portfolio site — built to introduce myself and showcase what I'm w
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=heyitsaadin&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsaadin&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" />
 
 <br>
 

@@ -14,10 +14,8 @@
 
 ```
 > whoami
-Aadin — student, currently learning by building things that break and then don't.
+student, currently learning by building things, exploring and shipping products.
 
-> status
-Building JARVIS in three different languages because once wasn't enough.
 ```
 
 </div>
@@ -34,7 +32,7 @@ Building JARVIS in three different languages because once wasn't enough.
 - Building **Jarvis AI** — a personal AI assistant, rebuilt across web, Android, and C++
 - Currently learning: agentic AI tooling & plugin development
 - I learn best by shipping something, breaking it, and fixing it in public
-- 💬 Ask me about: AI assistants, Flask backends, or why I rewrote the same project three times
+- 💬 Ask me about: AI assistants, Flask backends.
 
 </td>
 <td width="40%" valign="top">

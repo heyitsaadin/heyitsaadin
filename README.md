@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aadin+%F0%9F%91%8B;Student+%7C+Builder+%7C+Shipping+AI+stuff;Creator+of+Jarvis+AI+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aadin+%F0%9F%91%8B;Student+%7C+Building+%7C+Shipping;+%F0%9F%A4%96" alt="Typing SVG" />
 
 </div>
 
@@ -24,10 +24,10 @@ Building JARVIS in three different languages because once wasn't enough.
 
 ### `$ about-me`
 
-- 🎓 Student, self-taught through building real projects
-- 🤖 Building **Jarvis AI** — a personal AI assistant, rebuilt across web, Android, and C++
-- 🌱 Currently learning: agentic AI tooling & plugin development
-- 🛠️ I learn best by shipping something, breaking it, and fixing it in public
+- Student, self-taught through building real projects
+- Building **Jarvis AI** — a personal AI assistant, rebuilt across web, Android, and C++
+- Currently learning: agentic AI tooling & plugin development
+- I learn best by shipping something, breaking it, and fixing it in public
 - 💬 Ask me about: AI assistants, Flask backends, or why I rewrote the same project three times
 
 </td>
@@ -58,7 +58,7 @@ Building JARVIS in three different languages because once wasn't enough.
 <tr>
 <td width="50%">
 
-**[🤖 Jarvis-ai](https://github.com/heyitsaadin/Jarvis-ai)**
+**[Jarvis-ai](https://github.com/heyitsaadin/Jarvis-ai)**
 <br>
 My personal AI assistant, live on the web. Chat, image generation, web search, and more — built from scratch with Flask.
 <br>
@@ -67,7 +67,7 @@ My personal AI assistant, live on the web. Chat, image generation, web search, a
 </td>
 <td width="50%">
 
-**[⚡ JARVIS-AI-CPP](https://github.com/heyitsaadin/JARVIS-AI-CPP)**
+**[JARVIS-AI-CPP](https://github.com/heyitsaadin/JARVIS-AI-CPP)**
 <br>
 A C++ command-line version of Jarvis with user authentication, file-based data handling, and heuristic response logic. My first major milestone in software development.
 <br>
@@ -78,7 +78,7 @@ A C++ command-line version of Jarvis with user authentication, file-based data h
 <tr>
 <td width="50%">
 
-**[🧩 Ai_Agent_Acode](https://github.com/heyitsaadin/Ai_Agent_Acode)**
+**[Ai_Agent_Acode](https://github.com/heyitsaadin/Ai_Agent_Acode)**
 <br>
 An Acode plugin that brings agentic AI task execution straight into the code editor, powered by API calls.
 <br>
@@ -87,7 +87,7 @@ An Acode plugin that brings agentic AI task execution straight into the code edi
 </td>
 <td width="50%">
 
-**[🖱️ acode-smoothcursor-plugin](https://github.com/heyitsaadin/acode-smoothcursor-plugin)**
+**[acode-smoothcursor-plugin](https://github.com/heyitsaadin/acode-smoothcursor-plugin)**
 <br>
 A smooth animated cursor plugin for the Acode editor — small tool, better editing feel.
 <br>

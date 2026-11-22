@@ -1,4 +1,4 @@
-<h1 align="center">Aadin</h1>
+<h1 align="center">Aadin Kc</h1>
 
 <p align="center"><b>Indie Software Developer | AI &amp; Mobile Apps</b></p>
 
